@@ -1,0 +1,33 @@
+.services h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.services ul {
+    list-style: none;
+    font-size: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.services li {
+    display: inline-block;
+    vertical-align: top;
+    width: 23%;
+    font-size: 17px;
+    margin-bottom: 16px;
+    padding: 1%;
+    padding-top: 56px;
+    text-align: center;
+    background-size: 48px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+
+.services .eat { background-image: url("../images/eat.svg"); }
+.services .destroy { background-image: url("../images/destroy.svg"); }
+.services .sex { background-image: url("../images/sex-viski.svg"); }
+.services .teach { background-image: url("../images/teach.svg"); }
+.services .mine { background-image: url("../images/mine.svg"); }
+.services .arm-leg { background-image: url("../images/arm-leg.svg"); }
+.services .ass { background-image: url("../images/ass.svg"); }
+.services .shit { background-image: url("../images/shit.svg"); }

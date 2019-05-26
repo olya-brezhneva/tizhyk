@@ -1,0 +1,18 @@
+.logo {
+    border-bottom-color: black;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    padding: 4px 8px;
+}
+
+.logo img {
+    height: 48px;
+    width: 48px;
+    float: left;
+}
+
+.logo span {
+    line-height: 48px;
+    font-family: "showcard gothic";
+    font-size: 22px;
+}
