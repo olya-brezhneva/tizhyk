@@ -1,6 +1,8 @@
 @import "./about.css";
 @import "./logo.css";
 @import "./services.css";
+@import "./header.css";
+@import "./nav.css";
 
 body {
     width: 720px;
